@@ -25,3 +25,6 @@ This project focuses on securing a Microsoft Azure environment through identity 
 - Investigate security alerts through alert details and process-tree analysis
 - Perform remote endpoint investigations using Microsoft Defender Live Response
 - Investigate repeated failed authentication attempts using Azure Log Analytics and KQL
+
+
+[View Project](https://github.com/FAbdul-cyber/Azure-Microsoft-Defender-for-Endpoint)
